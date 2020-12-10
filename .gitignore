@@ -1,0 +1,8 @@
+/.vs/
+/Debug/
+/x64/
+/simulation/Debug/
+/simulation/x64/
+.vcproj
+.filters
+.user
