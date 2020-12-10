@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  class template variant is only available with C++17 or later.
+  simulater.h
+c:\users\mi161325\desktop\simulation\simulation\simulater.h(10): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  simulation.cpp
+c:\users\mi161325\desktop\simulation\simulation\result.h(11): error C2039: 'variant': 'std' のメンバーではありません。
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(332): note: 'std' の宣言を確認してください
+c:\users\mi161325\desktop\simulation\simulation\result.h(11): error C2143: 構文エラー: ';' が '<' の前にありません。
+c:\users\mi161325\desktop\simulation\simulation\result.h(11): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+c:\users\mi161325\desktop\simulation\simulation\result.h(11): error C2238: ';' の前に無効なトークンがあります。
+  コードを生成中...
