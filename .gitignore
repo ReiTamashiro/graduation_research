@@ -3,6 +3,7 @@
 /Debug/
 /x64/
 /x64/Debug
+/simulation/.vscode/
 /simulation/Debug/
 /simulation/x64/
 .vcproj
